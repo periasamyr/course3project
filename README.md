@@ -31,6 +31,6 @@ Group the aggregate data by Subject.ID and Activity.Code using group_by() and pi
 Finally use melt() to fold feature variable names and their corresponding means keeping Subject.ID and Activity.Code as id variables and get a long and tidy data set of required data
 
 ### Write result and clean-up
-Write the result data set to file titled 'results.txt' in the starting directory where the script was originally invoked and clean up downloaded files and working directories.
+Write the result data set to file titled 'result.txt' in the starting directory where the script was originally invoked and clean up downloaded files and working directories.
 
 

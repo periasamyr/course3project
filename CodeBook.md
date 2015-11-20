@@ -1,5 +1,5 @@
 ## Project Description
-The purpose of this project is to demonstrate my ability to get and clean-up raw data for subsequent analysis and modelling. This project requires us to prepare a tidy data set out of Human Activity Recognition database built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors. A detailed description of the origional study is available at below link 
+The purpose of this project is to demonstrate my ability to get and clean-up raw data for subsequent analysis and modelling. This project requires us to prepare a tidy data set out of Human Activity Recognition database built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors. A detailed description of the original study is available at below link 
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 	
